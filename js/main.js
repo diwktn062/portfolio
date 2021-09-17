@@ -1,9 +1,12 @@
 //모바일 크기로 새창 띄우기
 function MobileOpen1(){
   window.open('https://diwktn062.cafe24.com/01/mobile%20miso/','responsible1','width=470; height=800; top=280; left=800');
+};
 
-  window.open('https://diwktn062.cafe24.com/01/15_asanMedical/','responsible1','width=470; height=800; top=280; left=800');
-
+function MobileOpen2(){
+    window.open('https://diwktn062.cafe24.com/01/15_asanMedical/','responsible1','width=470; height=800; top=280; left=800');
+  };
+function MobileOpen3(){
   window.open('https://diwktn062.cafe24.com/01/09_KIA_bongo/','responsible1','width=470; height=800; top=280; left=800');
 };
 // window.open("주소,"팝업이름","속성");
