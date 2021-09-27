@@ -1,6 +1,6 @@
 //모바일 크기로 새창 띄우기
 function MobileOpen1(){
-  window.open('https://diwktn062.cafe24.com/01/mobile%20miso/','responsible1','width=470; height=800; top=280; left=800');
+  window.open('https://diwktn062.cafe24.com/01/mobile%20miso/','responsible1','width=400; height=800; top=280; left=800');
 };
 
 function MobileOpen2(){

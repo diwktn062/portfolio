@@ -21,9 +21,7 @@ section {font-size:30px;}
 section h1 {text-align:center; font-family: 'Overpass', sans-serif;}
 
 #section01 {background:#f1f1f1;} 
-#section01 h1 img {width:100%; cursor:pointer; z-index:2;} 
-#section01 .eng {text-align:center; font-size:52px; margin-top:10px; font-family: 'Architects Daughter', cursive;}
-#section01 .kor {text-align:center; font-size:15px; margin-top:10px; font-family: 'Nanum Gothic', sans-serif;}
+#section01 img {width:100%; cursor:pointer; z-index:2; text-align:center;} 
  
 #section02 {padding-top:180px;}
 #section02 h1 {font-size:36px; font-weight:bold;}
@@ -132,6 +130,7 @@ section h1 {text-align:center; font-family: 'Overpass', sans-serif;}
 
 #section05 {padding-top:200px;}
 #section05 h1 {font-size:36px; font-weight:bold;} 
+#section05 p {text-align:center; padding-top:10px;}
 .thumb { width:1200px; margin:auto; margin-top:100px; z-index:9; padding-bottom:200px;}
 .thumb li { position: relative; float:left; width:280px; height:280px; margin:10px; overflow:hidden; }
 .thumb:after { display:block; content:''; clear:both; }
